@@ -1,0 +1,3 @@
+C:/Users/isaia/CLionProjects/Project-Burnt/cmake-build-debug/CMakeFiles/Project_Rune.dir
+C:/Users/isaia/CLionProjects/Project-Burnt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/isaia/CLionProjects/Project-Burnt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
